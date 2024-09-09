@@ -1,6 +1,6 @@
 README for Mavacamten REMS Echocardiogram Date Calculator
 
-Overview
+Overview:
 This Excel-based calculator is designed to help healthcare providers determine the required date ranges for echocardiograms and due dates for patient status forms based on the REMS (Risk Evaluation and Mitigation Strategy) requirements for Mavacamten (Camzyos) therapy.
 
 Purpose:
