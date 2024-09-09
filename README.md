@@ -8,7 +8,7 @@ To calculate the date ranges for upcoming REMS-mandated echocardiograms.
 To provide the due dates for patient status forms during various stages of Mavacamten therapy.
 
 Instructions for Use:
-Download and Open the Excel Calculator
+Download the raw excel file and open the Excel Calculator
 Ensure that you have Microsoft Excel installed on your computer.
 Open the Excel file.
 
